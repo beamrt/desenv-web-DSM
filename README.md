@@ -1,5 +1,5 @@
 <h2> Desenvolvimento Web - Curso DSM (FATEC) </h2>
-Este repositório contém as atividades, projetos e exercícios desenvolvidos durante o curso de Desenvolvimento Web 💻
+<h4>📁 Este repositório contém as atividades, projetos e exercícios desenvolvidos durante a disciplina de Desenvolvimento Web do curso DSM (Fatec)</h4>
 
 <nav>
   <ul>
