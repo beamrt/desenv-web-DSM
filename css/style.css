@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+}
+
+img{
+  border-radius: 50px;
+}
+
+body {
+  background: linear-gradient(to right, #FFC0CB, #FF69B4);
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar a {
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.btn {
+  width: 100%;
+}
+
+.form-control {
+  padding: 5px;
+}
